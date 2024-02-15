@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Defense Housing Athority D.H.A",
+    "price": "Starting from 20,000,000",
+    "detail": "2-B East St,Defence Housing Authority D.H.A Phase I, Karachi City, Sindh 75500",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Naya Nazimabad",
+    "price": "Starting from 8,000,000",
+    "detail": "Naya Nazimabad, Manghopir Road, Karachi City, Sindh 75500",
+    "image": "./r2.png"
+  },
+  {
+    "name": "North Nazimabad Town",
+    "price": "Starting from 7,000,000",
+    "detail": "North Nazimabad, Karachi City, Sindh 75500",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Gulshan-e-Iqbal Town",
+    "price": "Starting from 12,000,000",
+    "detail": "Gulshan-e-Iqbal, Karachi City, Sindh 75500 ",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Maymar Housing Society",
+    "price": "Starting from 5,000,000",
+    "detail": "Super Highway (main highway between Karachi and Hyderabad) in MDA Scheme 45, Karachi City, Sindh 75500",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Bahria Town",
+    "price": "Starting from 15,000,000",
+    "detail": "Khi-Hyd M9 Motorway, Ahead of Lucky Cement, Bahria Town, Karachi City, Sindh 75500",
+    "image": "./r3.png"
+  }
+]
